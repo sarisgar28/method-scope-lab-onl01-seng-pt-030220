@@ -1,6 +1,6 @@
 
 require "spec_helper"
-def catch_phrase do 
+def catch_phrase
 describe "#catch_phrase" do 
   it "puts out a catch phrase" do 
     phrase = "It's-a me, Mario!"
