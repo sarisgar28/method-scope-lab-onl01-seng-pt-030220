@@ -1,3 +1,4 @@
+def catch_phrase 
 require "spec_helper"
 
 describe "#catch_phrase" do 
